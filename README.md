@@ -1,1 +1,2 @@
-# Trabalho-comanda
+# Trabalho-em-dupla
+# Marcio-e-Gustavo
